@@ -1,0 +1,11 @@
+Debug
+Release
+.vs
+*.sln
+TransportCatalogue/Debug
+TransportCatalogue/Release
+TransportCatalogue/output/example
+*.vcxproj
+*.filters
+*.user
+*.bat
